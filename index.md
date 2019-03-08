@@ -16,6 +16,11 @@ As a first-order security measure, data (i.e., computers) are kept in a locked o
 
 # Access and data sharing
 
+In my case, the data that would be shared is code and given the complexity of the project as well as the fact that this field is still developing, the final product likely wouldn’t be shared until results have been published. This would be years down the line from initial development, thus time and competition would be factors that limit the kind of transparency that would be ideal.  
+
 # Archiving and preservation
+
+The completed code, it will be made available on GitHub where the community aspect of this platform would allow for its maintenance and, more importantly, its continued development and use beyond my thesis project. Data in the form of simulation results will be compressed and archived and could potentially be archived long-term in a place like HEASARC or even with my institution, with the idea being that data preservation, like storage, will be external. Further conversation with my research advisor will allow me to have a better understanding of current (if any) standards/best practices. 
+
 
 Repository with source code [here](https://github.com/clarallebot/GRAD521_DMPtemplate)
