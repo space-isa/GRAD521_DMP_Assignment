@@ -1,6 +1,6 @@
 # GRAD521_DMP_Assignment
 
-This Data Managment Plan (DMP) is part of an assignment for GRAD 521, and will serve as an example for how to write DMPs in the future.
+This Data Managment Plan (DMP) was part of an assignment for GRAD 521, and serves as an example for how to write DMPs in the future.
 
 About the project: 
 
